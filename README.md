@@ -23,6 +23,6 @@ MD5 Calculator akan segera menghitung dan menampilkan hasilnya di bagian bawah a
 
 ![hs2](https://github.com/user-attachments/assets/c7d8c2d0-bff3-4402-8e06-582e0eda08c3)
 
-7. Memverifikasi Integritas File
+6. Memverifikasi Integritas File
 Setelah hash MD5 dihitung, Anda dapat membandingkannya dengan hash yang diberikan oleh sumber asli (misalnya, situs yang mengunduh file tersebut). Jika hash MD5 cocok, ini berarti file tidak mengalami perubahan atau kerusakan selama transmisi atau penyimpanan.
 
