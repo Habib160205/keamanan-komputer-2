@@ -16,7 +16,8 @@ selain itu anda juga bisa menggantinya dengan file yang di buat dari HashCalc da
 4. Hitung Hash MD5
 Setelah memilih file, klik tombol Calculate untuk memulai proses perhitungan hash MD5.
 MD5 Calculator akan segera menghitung dan menampilkan hasilnya di bagian bawah antarmuka.
-![hs1](https://github.com/user-attachments/assets/b949d526-7704-4540-8115-379720b03133)
+![hs2](https://github.com/user-attachments/assets/c7d8c2d0-bff3-4402-8e06-582e0eda08c3)
+
 5. Memverifikasi Integritas File
 Setelah hash MD5 dihitung, Anda dapat membandingkannya dengan hash yang diberikan oleh sumber asli (misalnya, situs yang mengunduh file tersebut). Jika hash MD5 cocok, ini berarti file tidak mengalami perubahan atau kerusakan selama transmisi atau penyimpanan.
 
